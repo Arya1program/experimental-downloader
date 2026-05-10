@@ -1,6 +1,7 @@
 # 📥 Download Links
-Generated on: Sun May 10 05:02:13 UTC 2026
+Generated on: Sun May 10 19:03:58 UTC 2026
 
+- [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
 - [Download ceijye.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z01)
 - [Download ceijye.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z02)
 - [Download ceijye.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z03)
