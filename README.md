@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Mon May 11 19:41:00 UTC 2026
+Generated on: Tue May 12 12:57:25 UTC 2026
 
 - [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
 - [Download KOUMAN1.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.z01)
@@ -22,3 +22,5 @@ Generated on: Mon May 11 19:41:00 UTC 2026
 - [Download eyzed.z05](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z05)
 - [Download eyzed.z06](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z06)
 - [Download eyzed.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.zip)
+- [Download senpai.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.z01)
+- [Download senpai.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.zip)
