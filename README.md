@@ -1,6 +1,7 @@
 # 📥 Download Links
-Generated on: Tue May 12 12:57:25 UTC 2026
+Generated on: Tue May 12 16:38:38 UTC 2026
 
+- [Download CONF2.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONF2.zip)
 - [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
 - [Download KOUMAN1.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.z01)
 - [Download KOUMAN1.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.z02)
