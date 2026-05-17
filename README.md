@@ -43,21 +43,23 @@ By using these workflows, you agree to the following:
 *   **Liability:** The creator(s) of this repository are not responsible for any misuse, copyright infringement, or account bans that may occur from using these workflows. 
 *   **Fair Use:** Please ensure your archiving aligns with Fair Use laws in your jurisdiction.
 
+##link
+https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z15
+https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z16
+https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.zip
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z01
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z02
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z03
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z04
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z05
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z06
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z07
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z08
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z09
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z10
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z11
+https://raw.githubusercontent.com/Arya1program/experimental-downloader/videos/videos/eyzed_madrese.z12
+https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z13
+https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z14
 
-Download eyzed_madrese.z01
-Download eyzed_madrese.z02
-Download eyzed_madrese.z03
-Download eyzed_madrese.z04
-Download eyzed_madrese.z05
-Download eyzed_madrese.z06
-Download eyzed_madrese.z07
-Download eyzed_madrese.z08
-Download eyzed_madrese.z09
-Download eyzed_madrese.z10
-Download eyzed_madrese.z11
-Download eyzed_madrese.z12
-Download eyzed_madrese.z13
-Download eyzed_madrese.z14
-Download eyzed_madrese.z15
-Download eyzed_madrese.z16
-Download eyzed_madrese.zip
+
