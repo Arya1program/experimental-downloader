@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Tue May 12 16:38:38 UTC 2026
+Generated on: Sun May 17 11:26:16 UTC 2026
 
 - [Download CONF2.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONF2.zip)
 - [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
@@ -23,5 +23,22 @@ Generated on: Tue May 12 16:38:38 UTC 2026
 - [Download eyzed.z05](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z05)
 - [Download eyzed.z06](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z06)
 - [Download eyzed.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.zip)
+- [Download eyzed_madrese.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z01)
+- [Download eyzed_madrese.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z02)
+- [Download eyzed_madrese.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z03)
+- [Download eyzed_madrese.z04](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z04)
+- [Download eyzed_madrese.z05](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z05)
+- [Download eyzed_madrese.z06](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z06)
+- [Download eyzed_madrese.z07](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z07)
+- [Download eyzed_madrese.z08](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z08)
+- [Download eyzed_madrese.z09](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z09)
+- [Download eyzed_madrese.z10](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z10)
+- [Download eyzed_madrese.z11](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z11)
+- [Download eyzed_madrese.z12](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z12)
+- [Download eyzed_madrese.z13](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z13)
+- [Download eyzed_madrese.z14](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z14)
+- [Download eyzed_madrese.z15](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z15)
+- [Download eyzed_madrese.z16](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z16)
+- [Download eyzed_madrese.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.zip)
 - [Download senpai.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.z01)
 - [Download senpai.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.zip)
