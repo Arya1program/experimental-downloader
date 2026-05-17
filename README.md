@@ -42,3 +42,22 @@ By using these workflows, you agree to the following:
 *   **Terms of Service:** You are solely responsible for ensuring that your use of this tool does not violate the Terms of Service of the websites you are accessing (e.g., YouTube, X, Famitsu).
 *   **Liability:** The creator(s) of this repository are not responsible for any misuse, copyright infringement, or account bans that may occur from using these workflows. 
 *   **Fair Use:** Please ensure your archiving aligns with Fair Use laws in your jurisdiction.
+
+
+Download eyzed_madrese.z01
+Download eyzed_madrese.z02
+Download eyzed_madrese.z03
+Download eyzed_madrese.z04
+Download eyzed_madrese.z05
+Download eyzed_madrese.z06
+Download eyzed_madrese.z07
+Download eyzed_madrese.z08
+Download eyzed_madrese.z09
+Download eyzed_madrese.z10
+Download eyzed_madrese.z11
+Download eyzed_madrese.z12
+Download eyzed_madrese.z13
+Download eyzed_madrese.z14
+Download eyzed_madrese.z15
+Download eyzed_madrese.z16
+Download eyzed_madrese.zip
