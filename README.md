@@ -1,28 +1,6 @@
 # 📥 Download Links
 Generated on: Sun May 17 11:26:16 UTC 2026
 
-- [Download CONF2.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONF2.zip)
-- [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
-- [Download KOUMAN1.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.z01)
-- [Download KOUMAN1.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.z02)
-- [Download KOUMAN1.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/KOUMAN1.zip)
-- [Download ceijye.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z01)
-- [Download ceijye.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z02)
-- [Download ceijye.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z03)
-- [Download ceijye.z04](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.z04)
-- [Download ceijye.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/ceijye.zip)
-- [Download dogm-naba.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/dogm-naba.z01)
-- [Download dogm-naba.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/dogm-naba.z02)
-- [Download dogm-naba.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/dogm-naba.z03)
-- [Download dogm-naba.z04](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/dogm-naba.z04)
-- [Download dogm-naba.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/dogm-naba.zip)
-- [Download eyzed.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z01)
-- [Download eyzed.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z02)
-- [Download eyzed.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z03)
-- [Download eyzed.z04](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z04)
-- [Download eyzed.z05](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z05)
-- [Download eyzed.z06](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.z06)
-- [Download eyzed.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed.zip)
 - [Download eyzed_madrese.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z01)
 - [Download eyzed_madrese.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z02)
 - [Download eyzed_madrese.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z03)
@@ -40,5 +18,5 @@ Generated on: Sun May 17 11:26:16 UTC 2026
 - [Download eyzed_madrese.z15](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z15)
 - [Download eyzed_madrese.z16](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z16)
 - [Download eyzed_madrese.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.zip)
-- [Download senpai.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.z01)
-- [Download senpai.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.zip)
+
+
