@@ -1,5 +1,5 @@
 # 📥 Download Links
-Generated on: Sun May 24 17:21:19 UTC 2026
+Generated on: Mon May 25 18:27:53 UTC 2026
 
 - [Download CONF2.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONF2.zip)
 - [Download CONFIG.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/CONFIG.zip)
@@ -44,5 +44,15 @@ Generated on: Sun May 24 17:21:19 UTC 2026
 - [Download eyzed_madrese.z15](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z15)
 - [Download eyzed_madrese.z16](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.z16)
 - [Download eyzed_madrese.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/eyzed_madrese.zip)
+- [Download koumannn.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z01)
+- [Download koumannn.z02](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z02)
+- [Download koumannn.z03](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z03)
+- [Download koumannn.z04](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z04)
+- [Download koumannn.z05](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z05)
+- [Download koumannn.z06](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z06)
+- [Download koumannn.z07](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z07)
+- [Download koumannn.z08](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z08)
+- [Download koumannn.z09](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.z09)
+- [Download koumannn.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/koumannn.zip)
 - [Download senpai.z01](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.z01)
 - [Download senpai.zip](https://github.com/Arya1program/experimental-downloader/raw/videos/videos/senpai.zip)
